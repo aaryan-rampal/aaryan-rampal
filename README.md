@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaryan-rampal
-- 👀 I’m interested in competitive coding and learning about new algorithms and data structures.
-- 🌱 I’m currently learning web development and trying to get better at coding contests. 
+- 👀 I’m interested in machine learning and computer vision and their applications to solve real problems.
+- 🌱 I’m currently learning backend development and doing research in the intersection of computer vision and biology. 
 
 <!---
 aaryan-rampal/aaryan-rampal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
