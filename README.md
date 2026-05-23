@@ -20,7 +20,6 @@ Some cool projects I prod and pry with:
 - [`ai-chat-exporter`](https://github.com/Rat-S/ai-chat-exporter) — export AI chats to Markdown
 - [`thunderbird-mcp`](https://github.com/TKasperczyk/thunderbird-mcp) — MCP access to Thunderbird
 - [`obsidian-copilot`](https://github.com/logancyang/obsidian-copilot) — AI plugin for Obsidian
-- https://github.com/actualbudget/actual
 
-I care a lot about open source. I think it's the right way to build software. 
+I care a lot about open source. 
 > If I have seen further, it is by standing on the shoulders of giants
