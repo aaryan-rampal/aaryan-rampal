@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @aaryan-rampal
-- 👀 I’m interested in machine learning and computer vision and their applications to solve real problems.
-- 🌱 I’m currently learning backend development and doing research in the intersection of computer vision and biology. 
+### aaryan rampal
 
-<!---
-aaryan-rampal/aaryan-rampal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+4th year CS @ UBC (ML). Graduating April 2027.
+
+I work at the intersection of ML and systems. What models can do, getting them 
+to run, and then running them well.
+
+Things I'm working on:
+- A personal memory system (JSONL WAL, vector retrieval, MCP integration)
+- Learning CUDA programming
+
+Previously: 
+- ML engineering at DarkVision Technologies (CV on ultrasonic pipeline
+inspection data)
+- platform applications at Astera Labs (PCIe/CXL validation).
+
+Some cool projects I prod and pry with:
+- [`actual`](https://github.com/actualbudget/actual) — A great FOSS budgeting tool
+- [`actual-mcp`](https://github.com/aaryan-rampal/actual-mcp) — MCP tools for Actual Budget
+- [`ai-chat-exporter`](https://github.com/Rat-S/ai-chat-exporter) — export AI chats to Markdown
+- [`thunderbird-mcp`](https://github.com/TKasperczyk/thunderbird-mcp) — MCP access to Thunderbird
+- [`obsidian-copilot`](https://github.com/logancyang/obsidian-copilot) — AI plugin for Obsidian
+- https://github.com/actualbudget/actual
+
+I care a lot about open source. I think it's the right way to build software. 
+> If I have seen further, it is by standing on the shoulders of giants
