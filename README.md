@@ -14,12 +14,12 @@ Previously:
 inspection data)
 - platform applications at Astera Labs (PCIe/CXL validation).
 
-Some cool projects I prod and pry with:
+> If I have seen further, it is by standing on the shoulders of giants
+
+
+Some giants I stand on the shoulders of:
 - [`actual`](https://github.com/actualbudget/actual) — A great FOSS budgeting tool
-- [`actual-mcp`](https://github.com/aaryan-rampal/actual-mcp) — MCP tools for Actual Budget
 - [`ai-chat-exporter`](https://github.com/Rat-S/ai-chat-exporter) — export AI chats to Markdown
 - [`thunderbird-mcp`](https://github.com/TKasperczyk/thunderbird-mcp) — MCP access to Thunderbird
 - [`obsidian-copilot`](https://github.com/logancyang/obsidian-copilot) — AI plugin for Obsidian
 
-I care a lot about open source. 
-> If I have seen further, it is by standing on the shoulders of giants
