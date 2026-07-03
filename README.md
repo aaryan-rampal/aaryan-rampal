@@ -5,10 +5,6 @@
 I work at the intersection of ML and systems. What models can do, getting them 
 to run, and then running them well.
 
-Things I'm working on:
-- A personal memory system (JSONL WAL, vector retrieval, MCP integration)
-- Learning CUDA programming
-
 Previously: 
 - ML engineering at DarkVision Technologies (CV on ultrasonic pipeline
 inspection data)
