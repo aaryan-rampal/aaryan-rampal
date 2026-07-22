@@ -7,6 +7,7 @@ to run, and then running them well.
 
 Currently:
 - engineering at Alexa+ at Amazon
+
 Previously: 
 - ML engineering at DarkVision Technologies (CV on ultrasonic pipeline
 inspection data)
